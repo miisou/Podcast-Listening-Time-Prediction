@@ -46,8 +46,7 @@ Also, before running this you need to type in your notebook cell next code:
 
 %env TABLE_NAME = _
 
-
-where in place of _ postgresql server data should be placed in order to run sql queries 
+where in place of _ postgresql server data should be placed in order to run sql queries, and change the pass to dataset_train 
 
 ## Key Findings
 
