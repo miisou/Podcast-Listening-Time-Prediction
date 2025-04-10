@@ -25,7 +25,7 @@ This project was based on AI created training dataset from newest (up to april o
 + seaborn
 + scikit-learn
 + xgboost
-+ lightgbm1
++ lightgbm
 + dotenv
 + sqlalchemy
 + verstack
@@ -33,6 +33,7 @@ This project was based on AI created training dataset from newest (up to april o
 + joblib
 
 Also, before running this you need to type in your notebook cell next code:
+
 %env DB_USER = _
 %env DB_PASSWORD = _
 %env DB_HOST = _
