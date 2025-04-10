@@ -11,7 +11,7 @@ This project additionaly involves:
 + Feature engineering
 + Testing different regression models
 + Analysing model results and importance of features
-+ Visualisations in total of about 50 informative plots.
++ Visualisations in total of 35 informative plots.
 
 Most of individual decisions are provided with explanations and comments.
 
