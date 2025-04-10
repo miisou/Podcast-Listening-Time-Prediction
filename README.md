@@ -35,11 +35,17 @@ This project was based on AI created training dataset from newest (up to april o
 Also, before running this you need to type in your notebook cell next code:
 
 %env DB_USER = _
+
 %env DB_PASSWORD = _
+
 %env DB_HOST = _
+
 %env DB_PORT = _
+
 %env DB_NAME = _
+
 %env TABLE_NAME = _
+
 
 where in place of _ postgresql server data should be placed in order to run sql queries 
 
